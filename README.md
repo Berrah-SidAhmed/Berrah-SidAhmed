@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm BERRAH SidAhmed</h1>
 <h3 align="center">Future PYTHON Programmer</h3>
-
+<div align="center">
+<img src="https://Berrah-SidAhmed.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berrah-sidahmed&label=views&color=7c64be&style=plastic" alt="berrah-sidahmed" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hamoda23490488" target="blank"><img src="https://img.shields.io/twitter/follow/hamoda23490488?logo=twitter&style=for-the-badge" alt="hamoda23490488" /></a> </p>
