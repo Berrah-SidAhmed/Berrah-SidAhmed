@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/hamoda23490488" target="blank"><img src="https://img.shields.io/twitter/follow/hamoda23490488?logo=twitter&style=for-the-badge" alt="hamoda23490488" /></a> </p>
 
-[![](https://visitcount.itsvg.in/api?id=Berrah-SidAhmed&icon=7&color=6)](https://visitcount.itsvg.in)
 - 📫 How to reach me [berhamoda3@gmail.com](berhamoda3@gmail.com)
 
 ## Connect with me  
