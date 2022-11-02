@@ -51,4 +51,4 @@
 
 
 
-![snake gif](https://github.com/Berrah-SidAhmed/Berrah-SidAhmed/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/Berrah-SidAhmed/Berrah-SidAhmed/blob/output/github-contribution-grid-snake.svg)
