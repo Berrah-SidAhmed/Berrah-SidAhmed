@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/26tn33aiTi1jkl6H6/200.gif">
 
 <p align="left"> <a href="https://twitter.com/hamoda23490488" target="blank"><img src="https://img.shields.io/twitter/follow/hamoda23490488?logo=twitter&style=for-the-badge" alt="hamoda23490488" /></a> </p>
-![200](https://user-images.githubusercontent.com/76969900/199552952-e1b69c6d-290c-4e63-abb4-2166d4ca354d.gif)
+
 
 - 📫 How to reach me [berhamoda3@gmail.com](berhamoda3@gmail.com)
 
