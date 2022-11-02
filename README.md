@@ -44,5 +44,5 @@
 </td></tr></table>  
 
 <br/>  
-##snake eating my  
+ 
 ![snake gif](https://github.com/Berrah-SidAhmed/Berrah-SidAhmed/blob/output/github-contribution-grid-snake.gif)
