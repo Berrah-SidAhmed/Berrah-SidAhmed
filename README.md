@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm BERRAH SidAhmed</h1>
 <h3 align="center">Future PYTHON Programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berrah-sidahmed&label=views&color=7c64be&style=plastic" alt="berrah-sidahmed" /> </p>
